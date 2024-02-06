@@ -25,6 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<img width="1436" alt="image" src="https://github.com/nuhsuleiban/osticket-prereqs/assets/153963865/1f6a4588-9975-48a3-b8ba-a22fdf760be9">
+ 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
